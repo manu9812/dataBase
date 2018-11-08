@@ -1,0 +1,10 @@
+INSERT INTO movie_finder.film (`film_id`, `title`, `description`, `length_minutes`, `release_year`) VALUES 
+(NULL, 'Locos de Amor 2', 'A single mother and the man who has not been able to forget her since she was 23 years old. A woman who yearns to be a mother and a single father in her fifties who only thinks about her. A discouraged man who starts dating a driver who gives love advice on the radio. And a mature woman who comes from Miami looking for new experiences. A crazy and funny musical comedy where the characters will discover that it is never too late to be crazy again of love.', '104', '2018'),
+(NULL,'Resident Evil','A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.','104','2002'),
+(NULL,'He Got Game','A basketball players father must try to convince him to go to a college so he can get a shorter sentence.','136','1998'),
+(NULL,'Pass Over','Two young men pass the time dreaming of the promised land.','74','2018'),
+(NULL,'Resident Evil: The Final Chapter','Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.','107','2016'),
+(NULL,'Dead Pool 2','Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.','120','2018'),
+(NULL,'Criminal','In a last-ditch effort to stop a diabolical plot, a dead CIA operatives memories, secrets, and skills are implanted into a death-row inmate in hopes that he will complete the operatives mission.','113','2016'),
+(null,'American Beauty','A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughters best friend.','122','1999'),
+(null,'Annie Hall','Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.','93','1977');
